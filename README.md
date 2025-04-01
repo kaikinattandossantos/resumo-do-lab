@@ -1,13 +1,52 @@
-# resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Introdução
+A computação na nuvem (cloud computing) é um modelo tecnológico que permite o acesso sob demanda a recursos computacionais compartilhados, como servidores, armazenamento, redes e aplicações, via internet. Essa tecnologia elimina a necessidade de investimentos elevados em infraestrutura física, oferecendo escalabilidade, flexibilidade e custos reduzidos.
+
+Principais Características
+
+Autoatendimento Sob Demanda: O usuário pode provisionar recursos sem interação humana com o provedor.
+
+Acesso Amplo pela Rede: Os serviços estão disponíveis em qualquer dispositivo conectado à internet.
+
+Pool de Recursos: Recursos são compartilhados entre múltiplos usuários (multitenancy).
+
+Elasticidade: Capacidade de escalar recursos rapidamente conforme a demanda.
+
+Serviço Medido: O uso é monitorado e cobrado com base no consumo (pay-as-you-go).
+
+Modelos de Serviço
+
+SaaS (Software as a Service): Aplicativos hospedados e gerenciados por terceiros (ex: Google Workspace, Salesforce).
+
+PaaS (Platform as a Service): Ambiente para desenvolvimento e deploy de aplicações (ex: AWS Elastic Beanstalk, Heroku).
+
+IaaS (Infrastructure as a Service): Infraestrutura virtualizada (ex: AWS EC2, Microsoft Azure VMs).
+
+Tipos de Nuvem
+
+Pública: Recursos oferecidos por provedores terceiros (ex: AWS, Google Cloud).
+
+Privada: Infraestrutura exclusiva para uma organização.
+
+Híbrida: Combinação de nuvens pública e privada.
+
+Vantagens
+
+Redução de custos com hardware e manutenção.
+
+Alta disponibilidade e recuperação de desastres.
+
+Acesso global e colaboração facilitada.
+
+Desafios
+
+Segurança e conformidade de dados.
+
+Dependência de conexão à internet.
+
+Gerenciamento de custos em ambientes complexos.
+
+Conclusão
+A computação na nuvem revolucionou a TI, democratizando o acesso a recursos avançados e impulsionando a inovação. Para empresas e desenvolvedores, entender seus modelos e aplicações é essencial para aproveitar seus benefícios competitivos.
 
 
-Exercício de lab 2 DIO
 
-Desenvolvemos o entendimento em computação na nuvem utilizando o Azure, ferramenta da microsoft que será necessário para diversas aplicações na nuvem, elemento que traz como vantagem:
-- substituição de manutenção de hardwares por pagamentos de licença de uso de empresas maiores (como a microsoft)
-- escabalabilidade e elaticidade, onde essa nova ferramenta possui oferta por demanda, ou seja, o preço das licenças varia conforme o uso dos servidores, caso gaste mais, usaremos mais. Além disso, em casos específicos de alta demanda, poderemos solicitar para esse evento em específico mais servidores,
-- a fim de que a empresa consiga suportar os imprevistos.
-- segurança e criptgrofia dos dados durante a transação entre data centers e nuvem pública.
-- Gerencia servidores locais, VMs na AWS/GCP e edge computing como se fossem recursos nativos do Azure.
-- CI/CD, gerenciamento de projetos (Scrum/Kanban) e repositórios Git, melhorando a qualidade e agilidade dos projetos.
